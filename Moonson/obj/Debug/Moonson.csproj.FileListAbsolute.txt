@@ -1,0 +1,10 @@
+E:\Proyectos\Moonson\Moonson\bin\Debug\Moonson.exe.config
+E:\Proyectos\Moonson\Moonson\obj\Debug\Moonson.csprojResolveAssemblyReference.cache
+E:\Proyectos\Moonson\Moonson\obj\Debug\Moonson.Form1.resources
+E:\Proyectos\Moonson\Moonson\obj\Debug\Moonson.Properties.Resources.resources
+E:\Proyectos\Moonson\Moonson\obj\Debug\Moonson.csproj.GenerateResource.Cache
+E:\Proyectos\Moonson\Moonson\bin\Debug\Moonson.exe
+E:\Proyectos\Moonson\Moonson\bin\Debug\Moonson.pdb
+E:\Proyectos\Moonson\Moonson\obj\Debug\Moonson.exe
+E:\Proyectos\Moonson\Moonson\obj\Debug\Moonson.pdb
+E:\Proyectos\Moonson\Moonson\obj\Debug\Moonson.Form2.resources
